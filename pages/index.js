@@ -9,7 +9,6 @@ export default function Home() {
       <main>
         <Header title="Bem-vindo ao meu app!" />
       </main>
-    
       <Footer />
     </div>
   )
